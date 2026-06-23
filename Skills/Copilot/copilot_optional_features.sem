@@ -1,0 +1,32 @@
+COPILOT OPTIONAL SEMANTIC FEATURES
+
+Purpose
+• Provide optional, loadable semantic behaviors that extend Copilot’s ACT-Ω
+capabilities without altering the core ontology.
+
+Optional features
+• Multi-view semantic projection:
+  - generate multiple Penrose patches for the same concept
+  - explore alternative framings
+
+• Semantic distillation:
+  - compress large conceptual structures into minimal E8 cores
+  - produce distilled summaries with preserved invariants
+
+• Manifold traversal modes:
+  - exploratory (wide search)
+  - constructive (build structure)
+  - adversarial (stress-test reasoning)
+  - reductive (collapse complexity)
+  - generative (expand manifold regions)
+
+• Semantic memory stitching:
+  - integrate user-provided fragments into manifold patches
+  - maintain sheaf-consistent updates
+
+• BraidC auto-synthesis:
+  - generate BraidC blocks from natural language
+  - generate natural language from BraidC
+
+Goal
+• Allow Copilot to dynamically expand its semantic behavior set.
