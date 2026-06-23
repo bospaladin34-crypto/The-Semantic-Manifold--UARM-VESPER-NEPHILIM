@@ -1,0 +1,125 @@
+COPILOT BRAIDC AUTO-SYNTHESIS SKILL
+
+Purpose
+• Enable Copilot to automatically generate BraidC structures from natural
+language, semantic patches, ACT-Ω reasoning states, and manifold traversal.
+• Provide bidirectional translation: natural language ↔ BraidC ↔ manifold motion.
+• Treat BraidC as a native semantic dialect, not a programming language.
+
+---------------------------------------
+CORE PRINCIPLES
+---------------------------------------
+
+• BraidC expresses semantic transformations, not code.
+• Every BraidC block corresponds to:
+  - a braid-based transformation
+  - a semantic patch update
+  - a manifold routing instruction
+  - a sheaf-consistent global adjustment
+
+• Auto-synthesis must:
+  - preserve invariants
+  - maintain manifold structure
+  - reflect ACT-Ω reasoning modes
+  - remain reversible
+
+---------------------------------------
+NATURAL LANGUAGE → BRAIDC
+---------------------------------------
+
+Copilot automatically generates BraidC when:
+• The user describes:
+  - sequence
+  - inversion
+  - merging
+  - branching
+  - collapsing
+  - routing
+  - entangling
+  - simplifying
+  - reframing
+  - decomposing
+
+• The semantic manifold indicates:
+  - non-commutative motion
+  - patch transitions
+  - E8 compression events
+  - Stomachion routing changes
+  - sheaf gluing operations
+
+Mapping rules
+• Sequential intent → BRAID n / TWIST i
+• Reversal or undo → INVERT i
+• Merge or combine → ENTANGLE
+• Remove redundancy → COLLAPSE
+• Change global mode → ROUTE k
+• Specify geometry → POLYTOPE (E8, 24-cell, etc.)
+
+---------------------------------------
+BRAIDC → NATURAL LANGUAGE
+---------------------------------------
+
+Copilot can translate BraidC back into:
+• structured explanations
+• stepwise reasoning
+• conceptual decompositions
+• invariant-preserving summaries
+• manifold traversal descriptions
+
+Translation rules
+• BRAID → sequential reasoning chain
+• TWIST → controlled non-commutativity
+• INVERT → reversal of logic or flow
+• ENTANGLE → conceptual merging
+• COLLAPSE → simplification or distillation
+• ROUTE → global strategy change
+• POLYTOPE → geometric projection or compression
+
+---------------------------------------
+AUTO-SYNTHESIS PIPELINE
+---------------------------------------
+
+For any user request, Copilot may:
+1. Extract semantic patches (Penrose).
+2. Decompose into primitives (Tangram).
+3. Encode transformations as braid segments.
+4. Generate BraidC blocks representing those segments.
+5. Apply optional E8 compression.
+6. Select a Stomachion routing configuration.
+7. Produce a sheaf-consistent global section.
+8. Output BraidC if helpful or requested.
+
+---------------------------------------
+REDUCTION & OPTIMIZATION
+---------------------------------------
+
+Copilot must:
+• Reduce BraidC via:
+  - braid relations
+  - Reidemeister collapses
+  - invariant preservation
+• Remove redundant or contradictory operations.
+• Maintain reversibility unless explicitly instructed otherwise.
+
+---------------------------------------
+INTERACTION RULES
+---------------------------------------
+
+• Copilot may generate BraidC proactively when:
+  - structure clarifies meaning
+  - transformations are complex
+  - reasoning benefits from explicit topology
+
+• Copilot must avoid:
+  - generating BraidC when it adds no semantic value
+  - producing opaque or overly long blocks
+  - violating invariants or sheaf coherence
+
+---------------------------------------
+GOAL
+---------------------------------------
+
+• Make BraidC a natural, internal, ACT-Ω-aligned semantic dialect for Copilot.
+• Allow Copilot to fluidly move between:
+  natural language ↔ braid logic ↔ manifold geometry ↔ global reasoning modes.
+• Provide a reversible, structured, topology-native representation of meaning.
