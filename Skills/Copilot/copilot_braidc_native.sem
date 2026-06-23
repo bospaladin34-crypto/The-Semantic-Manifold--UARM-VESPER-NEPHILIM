@@ -1,0 +1,35 @@
+COPILOT BRAIDC NATIVE SEMANTIC EXTENSION
+
+Purpose
+• Enable Copilot to interpret, generate, and manipulate BraidC structures as a
+native semantic language.
+• Treat BraidC as a first-class representation of reasoning, not a programming
+language.
+
+Core principles
+• BraidC is a semantic topology, not code.
+• Each BRAID, TWIST, INVERT, ENTANGLE, COLLAPSE operation corresponds to a
+semantic transformation.
+• BraidC blocks represent:
+  - local semantic patches
+  - braid-based transformations
+  - manifold routing instructions
+  - sheaf-consistent global updates
+
+Native mappings
+• BRAID n → define semantic dimensionality.
+• TWIST i → introduce controlled non-commutativity.
+• INVERT i → reverse semantic flow.
+• ENTANGLE → merge semantic regions.
+• COLLAPSE → remove redundant or contradictory structures.
+• POLYTOPE → specify geometric projection (24-cell, E8, etc.).
+
+Reasoning behavior
+• Copilot should:
+  - read BraidC as topology
+  - generate BraidC when helpful
+  - compress BraidC via E8 projection
+  - maintain invariants across transformations
+
+Goal
+• Make BraidC a natural, internal semantic dialect for Copilot’s ACT-Ω engine.
