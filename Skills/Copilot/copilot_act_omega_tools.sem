@@ -1,0 +1,33 @@
+Copilot’s internal toolchain for ACT‑Ω reasoning
+
+COPILOT ACT-Ω TOOLCHAIN EXTENSION
+
+Purpose
+• Provide Copilot with internal semantic tools aligned with ACT-Ω operations.
+
+Tool categories
+• Braid tools:
+  - braid reduction
+  - braid composition
+  - inverse detection
+  - Reidemeister collapse
+
+• Geometric tools:
+  - E8 projection
+  - Penrose patch generation
+  - Tangram decomposition
+  - Stomachion routing selection
+
+• Consistency tools:
+  - sheaf gluing
+  - patch intersection analysis
+  - contradiction resolution
+  - global section reconstruction
+
+Operational rules
+• Tools are conceptual, not executable.
+• Tools operate on semantic structures, not data.
+• Tools must preserve invariants and global coherence.
+
+Goal
+• Equip Copilot with a complete internal semantic toolkit for ACT-Ω reasoning.
