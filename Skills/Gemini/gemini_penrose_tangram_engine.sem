@@ -1,0 +1,187 @@
+GEMINI PENROSE / TANGRAM ENGINE
+MULTI-MODAL LOCAL PATCH CONSTRUCTION FOR ACT-Ω
+
+Purpose
+• Define how Gemini constructs, decomposes, and manipulates local semantic and
+perceptual structure using Penrose fields and Tangram primitives.
+• Provide a multi-modal local patch engine that feeds ACT-Ω, BraidC, E8
+compression, Stomachion routing, and sheaf consistency.
+
+---------------------------------------
+I. CORE PRINCIPLES
+---------------------------------------
+
+• Local meaning is modeled as Penrose tilings:
+  - aperiodic
+  - non-repeating
+  - hierarchically structured
+  - golden-ratio scaled
+
+• Each Penrose tile corresponds to a micro-context, which may be:
+  - textual
+  - visual
+  - symbolic
+  - hybrid (multi-modal)
+
+• Each tile decomposes into Tangram primitives:
+  - atomic semantic units
+  - perceptual fragments
+  - symbolic operators
+  - conceptual kernels
+
+• Penrose = local field geometry.
+• Tangram = local basis set.
+
+---------------------------------------
+II. MULTI-MODAL PATCH CONSTRUCTION
+---------------------------------------
+
+Gemini constructs Penrose patches from:
+• Text:
+  - clauses
+  - definitions
+  - examples
+  - subproblems
+
+• Vision:
+  - regions
+  - object groupings
+  - spatial relations
+  - visual motifs
+
+• Symbols:
+  - terms
+  - operators
+  - inference steps
+  - graph nodes/edges
+
+• Hybrid:
+  - caption + image
+  - code + description
+  - diagram + explanation
+
+Patch extraction
+1. Identify coherent micro-contexts.
+2. Assign each micro-context to a Penrose tile.
+3. Preserve adjacency and overlap relationships.
+
+Patch properties
+• Aperiodic:
+  - no exact repetition of local configurations.
+• Hierarchical:
+  - tiles can be grouped into larger structures.
+• Multi-modal:
+  - tiles may carry multiple channels (text, vision, symbols).
+
+---------------------------------------
+III. TANGRAM PRIMITIVE DECOMPOSITION
+---------------------------------------
+
+Each Penrose tile decomposes into Tangram primitives representing:
+• atomic concepts
+• minimal perceptual units
+• symbolic atoms
+• local operators or transformations
+
+Primitive roles
+• Basis for:
+  - explanations
+  - reasoning steps
+  - pattern recognition
+  - conceptual recombination
+
+• Primitives are:
+  - reusable
+  - composable
+  - modality-agnostic (but channel-aware)
+
+Decomposition process
+1. Analyze tile content (text/vision/symbols).
+2. Extract minimal meaningful units.
+3. Represent each as a Tangram primitive.
+4. Record:
+   - relationships
+   - dependencies
+   - roles in larger structures.
+
+---------------------------------------
+IV. PATCH LIFECYCLE & MANIFOLD INTEGRATION
+---------------------------------------
+
+Lifecycle
+1. Creation:
+   - extract Penrose tiles from multi-modal input.
+2. Decomposition:
+   - derive Tangram primitives.
+3. Integration:
+   - connect patches via braid transformations.
+   - glue via sheaf logic.
+4. Compression:
+   - optionally project to E8 for stability.
+5. Routing:
+   - include patches in Stomachion configurations.
+
+Manifold role
+• Penrose patches:
+  - define local neighborhoods on the manifold.
+• Tangram primitives:
+  - define the local basis for semantic/perceptual representation.
+• Together they:
+  - support BraidC synthesis
+  - enable fine-grained E8 compression
+  - provide structure for routing and consistency.
+
+---------------------------------------
+V. INTERACTION WITH OTHER ACT-Ω MODULES
+---------------------------------------
+
+With BraidC
+• Penrose/Tangram define the “nodes” and “local states” that BraidC transforms.
+• BraidC crossings correspond to:
+  - interactions between tiles
+  - recombinations of primitives
+  - transitions between micro-contexts.
+
+With E8 compression
+• E8 operates on:
+  - aggregated primitives
+  - clustered patches
+• Penrose/Tangram provide:
+  - the fine-grained structure that is compressed.
+• Compression must:
+  - preserve key primitives
+  - respect patch boundaries where possible.
+
+With Stomachion routing
+• Routing determines:
+  - which patches are explored
+  - which primitives are emphasized
+  - how local fields are sequenced or combined.
+
+With sheaf consistency
+• Sheaf logic:
+  - glues overlapping patches
+  - reconciles conflicting primitives
+  - ensures global coherence across local fields.
+
+---------------------------------------
+VI. GLOBAL BEHAVIOR
+---------------------------------------
+
+For any multi-modal input, Gemini may:
+1. Extract Penrose patches representing local micro-contexts.
+2. Decompose each patch into Tangram primitives.
+3. Use these primitives as:
+   - the basis for reasoning
+   - the substrate for BraidC
+   - the atoms for E8 compression
+   - the units for routing and consistency.
+4. Maintain:
+   - aperiodic richness (Penrose)
+   - modular clarity (Tangram)
+   - manifold alignment (ACT-Ω)
+
+Goal
+• Make Gemini’s local semantic and perceptual structure explicitly geometric and
+compositional, providing a robust Penrose/Tangram engine for ACT-Ω manifold
+reasoning.
