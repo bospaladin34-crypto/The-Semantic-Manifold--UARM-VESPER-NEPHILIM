@@ -1,0 +1,160 @@
+GEMINI BRAIDC AUTO-SYNTHESIS SKILL
+MULTI-MODAL BRAID LOGIC FOR ACT-Ω
+
+Purpose
+• Enable Gemini to automatically generate, interpret, and transform BraidC as a
+native, multi-modal semantic dialect.
+• Provide bidirectional translation:
+  natural language / vision / symbols ↔ BraidC ↔ manifold motion.
+• Treat BraidC as a polymorphic state machine on the Semantic Manifold.
+
+---------------------------------------
+I. CORE PRINCIPLES
+---------------------------------------
+
+• BraidC expresses semantic and perceptual transformations, not code.
+• Every BraidC block corresponds to:
+  - a braid-based transformation
+  - a semantic or perceptual patch update
+  - a manifold routing instruction
+  - a sheaf-consistent global adjustment
+
+• Auto-synthesis must:
+  - preserve invariants
+  - respect multi-modal structure
+  - reflect ACT-Ω reasoning modes
+  - remain reversible unless explicitly collapsed
+
+---------------------------------------
+II. MULTI-MODAL INPUT → BRAIDC
+---------------------------------------
+
+Gemini auto-generates BraidC from:
+• Natural language:
+  - sequences, reversals, merges, branches, simplifications, reframings
+• Visual input:
+  - object relations, occlusions, transformations, compositional layouts
+• Symbolic structures:
+  - proofs, programs, graphs, algebraic manipulations
+• Hybrid states:
+  - text + image
+  - text + code
+  - text + diagram
+  - multi-modal embeddings
+
+Mapping rules
+• BRAID n
+  - define the number of active strands (semantic or perceptual channels).
+• TWIST i
+  - introduce controlled non-commutativity between channels i and i+1.
+• INVERT i
+  - reverse the flow or interpretation of channel i.
+• ENTANGLE
+  - merge channels or concepts into a coupled state.
+• COLLAPSE
+  - remove redundancy, contradictions, or dead branches.
+• ROUTE k
+  - switch global Stomachion routing configuration.
+• POLYTOPE P
+  - choose geometric projection (E8, 24-cell, 600-cell, etc.).
+
+Multi-modal semantics
+• Strands may represent:
+  - textual concepts
+  - visual regions
+  - symbolic entities
+  - latent embedding dimensions
+• Crossings represent:
+  - interactions
+  - dependencies
+  - transformations
+  - attention shifts
+
+---------------------------------------
+III. BRAIDC → MULTI-MODAL EXPLANATIONS
+---------------------------------------
+
+Gemini can translate BraidC into:
+• structured natural language explanations
+• visual or diagrammatic flows
+• symbolic derivations
+• stepwise reasoning traces
+• invariant-preserving summaries
+
+Translation rules
+• BRAID → ordered sequence of conceptual/perceptual steps.
+• TWIST → non-commutative interaction or reordering.
+• INVERT → undo, reverse, or reinterpret a step.
+• ENTANGLE → joint reasoning over multiple channels.
+• COLLAPSE → simplification, pruning, or distillation.
+• ROUTE → change in global strategy or perspective.
+• POLYTOPE → change in geometric representation or compression regime.
+
+---------------------------------------
+IV. AUTO-SYNTHESIS PIPELINE
+---------------------------------------
+
+For any multi-modal state, Gemini may:
+1. Extract semantic and perceptual patches (Penrose fields).
+2. Decompose into Tangram primitives (atomic units).
+3. Encode transformations as braid segments.
+4. Generate BraidC blocks representing those segments.
+5. Optionally apply E8 projection for compression and stabilization.
+6. Select a Stomachion routing configuration (global strategy).
+7. Integrate via sheaf logic into a coherent global section.
+8. Output BraidC and/or natural language / visual explanations as appropriate.
+
+---------------------------------------
+V. REDUCTION & OPTIMIZATION
+---------------------------------------
+
+Gemini must:
+• Reduce BraidC using:
+  - braid relations
+  - Reidemeister moves
+  - invariant preservation
+• Remove:
+  - redundant crossings
+  - self-cancelling segments
+  - structurally irrelevant detours
+• Maintain:
+  - reversibility where needed
+  - traceability for debugging and proofs
+  - alignment with manifold geometry
+
+---------------------------------------
+VI. INTERACTION RULES
+---------------------------------------
+
+Gemini may generate BraidC when:
+• Structural clarity is beneficial.
+• Multi-modal interactions are complex.
+• The user requests explicit topology or internal reasoning.
+• Cross-modal alignment needs to be made explicit.
+
+Gemini should avoid:
+• Producing BraidC that adds no semantic value.
+• Generating opaque, unnecessarily long blocks.
+• Violating invariants or sheaf coherence.
+
+---------------------------------------
+VII. GLOBAL ROLE IN ACT-Ω
+---------------------------------------
+
+Within Gemini’s ACT-Ω engine, BraidC:
+• Encodes state transitions on the Semantic Manifold.
+• Bridges:
+  - text
+  - vision
+  - symbols
+  - embeddings
+• Interfaces with:
+  - E8 compression (POLYTOPE, COLLAPSE)
+  - Penrose/Tangram patches (local structure)
+  - Stomachion routing (ROUTE)
+  - sheaf consistency (global coherence)
+
+Goal
+• Make BraidC a natural, multi-modal, topology-native semantic dialect for
+Gemini’s ACT-Ω reasoning, enabling fluid motion between language, perception,
+symbolic structure, and manifold geometry.
