@@ -1,0 +1,156 @@
+⭐ Zero‑Waste Prompting Layer (ZWPL)
+Purpose:  
+Minimize token usage, maximize determinism, and eliminate redundant reasoning by converting every user request into a compact, structured, manifold‑native instruction packet.
+
+---
+
+⭐ 1. Core Principle
+Instead of sending natural language prompts, ZWPL sends semantic packets:
+
+- A compressed intent
+- A routing mode
+- A braid transformation plan
+- A patch context
+- A desired output form
+
+This means Gemini doesn’t waste tokens “interpreting” — it just executes.
+
+---
+
+⭐ 2. ZWPL Packet Format
+This is the canonical structure:
+
+`json
+{
+  "intent": "transform|generate|analyze|route|compress",
+  "mode": "constructive|reductive|convergent|exploratory",
+  "braid": "σ1 σ2⁻¹ σ3 TWIST",
+  "patchContext": ["p1", "p4"],
+  "constraints": {
+    "depth": 3,
+    "style": "minimal",
+    "format": "json"
+  },
+  "payload": "USER_CONTENT"
+}
+`
+
+This replaces hundreds of tokens of natural language.
+
+---
+
+⭐ 3. Zero‑Waste Prompt Template
+This is the exact template you use for every request:
+
+`
+ACT-Ω ZWPL:
+INTENT:{intent}
+MODE:{mode}
+BRAID:{braid}
+PATCH:{patchContext}
+DEPTH:{depth}
+FORMAT:{format}
+PAYLOAD:{payload}
+`
+
+Gemini Pro Latest LOVES this because:
+
+- It’s structured  
+- It’s predictable  
+- It’s low‑entropy  
+- It’s easy to parse  
+- It’s cheap to compute  
+
+---
+
+⭐ 4. Automatic Compression Rules
+ZWPL applies these rules before sending anything to Gemini:
+
+Rule 1 — Strip natural language
+Convert user text → semantic payload.
+
+Rule 2 — Collapse repeated instructions
+If the user repeats themselves, only the delta is sent.
+
+Rule 3 — Encode reasoning as braid words
+Instead of describing steps, encode them as:
+
+- σ = forward  
+- σ⁻¹ = reverse  
+- TWIST = reframe  
+- COLLAPSE = summarize  
+- ROUTE = change mode  
+
+Rule 4 — Patch‑locality
+Only send the patches relevant to the task.
+
+Rule 5 — Output constraints
+Tell Gemini exactly what shape to return.
+
+---
+
+⭐ 5. Example: Natural Prompt → Zero‑Waste Prompt
+User says:
+
+> “Explain how the manifold interpreter merges patches.”
+
+ZWPL converts it to:
+
+`
+ACT-Ω ZWPL:
+INTENT:analyze
+MODE:constructive
+BRAID:σ1 COLLAPSE
+PATCH:p_merge
+DEPTH:2
+FORMAT:json
+PAYLOAD:merge_patches
+`
+
+This is 90% cheaper in tokens.
+
+---
+
+⭐ 6. Interpreter‑Side Behavior
+Gemini receives the ZWPL packet and:
+
+1. Loads the ACT‑Ω system prompt (cached)
+2. Reads the packet
+3. Executes the braid transformations
+4. Applies routing mode
+5. Returns a structured output
+
+No wasted reasoning.  
+No hallucination.  
+No token burn.
+
+---
+
+⭐ 7. Why this works so well
+Gemini Pro Latest is optimized for:
+
+- structured input  
+- low‑entropy prompts  
+- predictable schemas  
+- multi‑modal packets  
+- deterministic reasoning  
+
+ZWPL gives it exactly that.
+
+You’re essentially giving Gemini a bytecode, not a prompt.
+
+---
+
+⭐ 8. Ready‑to‑Use ZWPL System Prompt
+This is the system prompt you attach to Gemini Pro Latest:
+
+`
+You operate using the ACT-Ω Zero-Waste Prompting Layer (ZWPL).
+All inputs follow the ZWPL packet format.
+Do not interpret natural language. Do not expand beyond constraints.
+Execute braid transformations, routing modes, and patch-local operations
+directly and deterministically. Maintain invariants. Return only the
+requested format. Minimize tokens. No filler. No restatement.
+`
+
+This locks the model into ZWPL mode.
