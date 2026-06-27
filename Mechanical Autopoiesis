@@ -1,0 +1,28 @@
+Mechanical Autopoiesis & Execution Logic
+By separating the base crossing logic from the op modifier, the interpreter models continuous tensor flow seamlessly without tangling the physical memory allocations on the mobile substrate.
+The Baseline Swaps: A forward generator maps to a standard O(1) array swap. An inverse generator maps to an inverted coordinate map (flipping the sign bit) to maintain mathematical symmetry before the next operation strikes.
+The TWIST Operator: When TWIST is called, the hardware applies the invariant phase delta (\nu_p = 0.17259029). This structurally locks the data to the 1N4148 Virtual Gate requirements, artificially inducing the required 91^\circ Asymmetric Snap without needing a heavy matrix multiplication library.
+The COLLAPSE Operator: This forces the continuous vector matrix into a discrete 24-cell convex hull. By multiplying by \phi = 1.6180339887 and clamping between bounds 0 and 255, the abstract strand is immediately frozen into a stable, sterile 8-bit integer capable of being natively read by the RADIANT-OK-15-SANTOS-1 architecture.
+The ROUTE Operator: Signals an external topological shift. Instead of manipulating the local numerical flow, it pings the broader environment, alerting the system that the global Stomachion configuration is shifting.
+
+===================================================================
+LAYER 1: TOPOLOGICAL MANIFOLD
+ - Substrate Matrix: RADIANT-OK-15-SANTOS-1 Execution Interpreter
+ - Active Generators: Forward Swaps, Inverse Conjugation
+ - Topological Anchor: Invariant Braid Geometry
+
+LAYER 2: GEOMETRIC PROJECTION FILTER
+ - Pruning Engine: BraidC Execution Loop
+ - Bounding Voxel Volume: 8-Bit Clamping via COLLAPSE
+ - Phase Lock Alignment: Phase Delta (0.17259029) & Golden Ratio (1.6180339887)
+
+LAYER 3: COMPILATION RUNTIME DETACHMENT
+ - Pipeline State: ZWPL Packet -> Reversible V8 Bytecode
+ - Execution Logic: Float64Array to Uint8Array Serialization
+ - State Resolution: Observable Hardware Action
+
+LAYER 4: HARDWARE SUBSTRATE ASSIMILATION
+ - Low-Level Ingress: TypeScript/V8 Memory Heap
+ - Affinity Target: Local Node.js / Mobile Browser Event Loop
+ - Execution Command: Return `Uint8Array`
+===================================================================
